@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PoovarasanS-710/BitHvnTch/static/css/main.ae42ac5f.css",
+    "main.js": "/PoovarasanS-710/BitHvnTch/static/js/main.117ef2a7.js",
+    "index.html": "/PoovarasanS-710/BitHvnTch/index.html",
+    "main.ae42ac5f.css.map": "/PoovarasanS-710/BitHvnTch/static/css/main.ae42ac5f.css.map",
+    "main.117ef2a7.js.map": "/PoovarasanS-710/BitHvnTch/static/js/main.117ef2a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.117ef2a7.js"
+  ]
+}
